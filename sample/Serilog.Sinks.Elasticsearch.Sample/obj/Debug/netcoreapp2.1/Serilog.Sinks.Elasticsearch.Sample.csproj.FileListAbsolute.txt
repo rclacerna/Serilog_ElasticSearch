@@ -1,0 +1,16 @@
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.dll.config
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.deps.json
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.runtimeconfig.json
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.runtimeconfig.dev.json
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.dll
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.pdb
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.dll
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.pdb
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\bin\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.xml
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.csprojAssemblyReference.cache
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.csproj.CoreCompileInputs.cache
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.AssemblyInfoInputs.cache
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.AssemblyInfo.cs
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.csproj.CopyComplete
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.dll
+C:\source\FSD\POC\serilog-sinks-elasticsearch-dev\sample\Serilog.Sinks.Elasticsearch.Sample\obj\Debug\netcoreapp2.1\Serilog.Sinks.Elasticsearch.Sample.pdb
