@@ -1,0 +1,2 @@
+# Serilog_ElasticSearch
+Logging
